@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desire-9
-- 👀 I’m interested in badminton and gaming
+- 👀 I’m interested in playing badminton and gaming
 - 🌱 I’m currently learning computer network and data structure
 
 <!---
